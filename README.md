@@ -33,7 +33,7 @@
 
 ## Installation
 
-  1. Download the repository using the 'Code' dropdown.
+  1. Download the repository zip folder using the 'Code' dropdown.
   2. Run `npm i` or `npm install` on the directory.
   3. Run `npm run develop` on the same directory to have both server and client running at the same time.
 
